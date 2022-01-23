@@ -1,0 +1,12 @@
+/*Learning how to chain selectors with classes*/
+
+.avatar.proportioned{
+    width:300px;
+    height: auto;
+}
+
+
+.avatar.distorted{
+    height: 400px ;
+    width: 200px;
+}

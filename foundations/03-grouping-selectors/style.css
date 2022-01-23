@@ -1,0 +1,17 @@
+/*3 classes */
+
+.big,
+.yellow 
+{
+font-size: 28px;
+font-family: Helvetica, sans-serif, 'Times New Roman' ; 
+}
+
+.big {
+    background-color: rgb(19, 11, 11);
+    color: rgb(235, 235, 235);
+}
+
+.yellow { background-color: #dddd24;
+
+}
